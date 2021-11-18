@@ -1,0 +1,28 @@
+{
+  "name": "ryuuba.pkg.test",
+  "version": "1.0.0",
+  "description": "Javascript test program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryuuba/javascript_test.git"
+  },
+  "keywords": [
+    "Test",
+    "IoT",
+    "notusefull",
+    "trash",
+    "learning",
+    "UAM",
+    "Samsung"
+  ],
+  "author": "A. G. Medrano-Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryuuba/javascript_test/issues"
+  },
+  "homepage": "https://github.com/Ryuuba/javascript_test#readme"
+}
